@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Search Test Suite,,,,04-02-2024 16:19:53,04-02-2024 16:19:57,3.477s,FAILED
+,,,,,,,
+Test Cases/Search,,,,04-02-2024 16:19:53,04-02-2024 16:19:57,3.281s,FAILED
+"openBrowser("""")",,,,04-02-2024 16:19:54,04-02-2024 16:19:57,2.931s,FAILED
